@@ -10,8 +10,8 @@ I am engaged in Data Science and ML, currently undergoing advanced training at t
 - Bioinformatics (metabolomic analysis (data acquisition, mass spectra identification, univariate and multivariate statistics); alignment to reference and SNP search, de novo genome assembly, and genome annotation)
 
 ## Languages:
-Russian: Native
-English: Advanced (C1)
-German: Elementary (A2)
+- Russian: Native
+- English: Advanced (C1)
+- German: Elementary (A2)
 
 
