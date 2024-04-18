@@ -4,7 +4,7 @@ I am engaged in Data Science and ML, currently undergoing advanced training at t
 
 ## Skills
 - Unix/bash (SAM-tools, bwa tools)
-- Python (Variables and operations, classes and types, modules, virtualenv, pip, pipenv, pandas/numpy/biopython, Git / GitHub, regular expressions, exceptions, debugging, databases, data structures) - see (My project)[https://github.com/nerofeeva2001/Python_projects]
+- Python (Variables and operations, classes and types, modules, virtualenv, pip, pipenv, pandas/numpy/biopython, Git / GitHub, regular expressions, exceptions, debugging, databases, data structures) - see [My project](https://github.com/nerofeeva2001/Python_projects)
 - Biostatistics and data visualization in R (ggplot2, readxl, dplyr, subset, apply, .Rmd) 
 
 ● 
