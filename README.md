@@ -14,3 +14,4 @@ I am engaged in Data Science and ML, currently undergoing advanced training at t
 - English: Advanced (C1)
 - German: Elementary (A2)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nerofeeva2001&theme=radical)
