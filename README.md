@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am engaged in Data Science and ML, currently undergoing advanced training at the Institute of Bioinformatics. I graduated from St. Petersburg State University with a degree in Biology (Biochemistry) and have four years of experience working with biochemical data (I am involved in omics science, in particular metabolomics). I am passionate about developing tools for efficient data analysis and automation of routine work.
+I am engaged in Data Science and ML, currently undergoing advanced training at the Institute of Bioinformatics. I graduated from St. Petersburg State University with a degree in Biology (Biochemistry) and have four years of experience working with biochemical data (I am involved in omics science, in particular metabolomics). I am passionate about developing tools for efficient data analysis and automation of routine work [MetaboliseME](https://github.com/nerofeeva2001/MetaboliseME).
 
 ## Skills
 - **Unix/bash** (SAM-tools, bwa tools)
